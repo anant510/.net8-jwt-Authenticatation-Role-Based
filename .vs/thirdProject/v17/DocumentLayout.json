@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\enrichment class .net\\thirdProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAF8D1B-5CF8-454E-B273-6ABE6E325C85}|thirdProject.csproj|c:\\users\\dell\\desktop\\enrichment class .net\\thirdproject\\controller\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAF8D1B-5CF8-454E-B273-6ABE6E325C85}|thirdProject.csproj|solutionrelative:controller\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAF8D1B-5CF8-454E-B273-6ABE6E325C85}|thirdProject.csproj|c:\\users\\dell\\desktop\\enrichment class .net\\thirdproject\\migrations\\20240715091345_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAF8D1B-5CF8-454E-B273-6ABE6E325C85}|thirdProject.csproj|solutionrelative:migrations\\20240715091345_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAF8D1B-5CF8-454E-B273-6ABE6E325C85}|thirdProject.csproj|c:\\users\\dell\\desktop\\enrichment class .net\\thirdproject\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAF8D1B-5CF8-454E-B273-6ABE6E325C85}|thirdProject.csproj|solutionrelative:controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAF8D1B-5CF8-454E-B273-6ABE6E325C85}|thirdProject.csproj|c:\\users\\dell\\desktop\\enrichment class .net\\thirdproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAF8D1B-5CF8-454E-B273-6ABE6E325C85}|thirdProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAF8D1B-5CF8-454E-B273-6ABE6E325C85}|thirdProject.csproj|c:\\users\\dell\\desktop\\enrichment class .net\\thirdproject\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAF8D1B-5CF8-454E-B273-6ABE6E325C85}|thirdProject.csproj|solutionrelative:interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAF8D1B-5CF8-454E-B273-6ABE6E325C85}|thirdProject.csproj|c:\\users\\dell\\desktop\\enrichment class .net\\thirdproject\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAF8D1B-5CF8-454E-B273-6ABE6E325C85}|thirdProject.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAF8D1B-5CF8-454E-B273-6ABE6E325C85}|thirdProject.csproj|c:\\users\\dell\\desktop\\enrichment class .net\\thirdproject\\models\\adduserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAF8D1B-5CF8-454E-B273-6ABE6E325C85}|thirdProject.csproj|solutionrelative:models\\adduserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAF8D1B-5CF8-454E-B273-6ABE6E325C85}|thirdProject.csproj|c:\\users\\dell\\desktop\\enrichment class .net\\thirdproject\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAF8D1B-5CF8-454E-B273-6ABE6E325C85}|thirdProject.csproj|solutionrelative:services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAF8D1B-5CF8-454E-B273-6ABE6E325C85}|thirdProject.csproj|c:\\users\\dell\\desktop\\enrichment class .net\\thirdproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7BAF8D1B-5CF8-454E-B273-6ABE6E325C85}|thirdProject.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAF8D1B-5CF8-454E-B273-6ABE6E325C85}|thirdProject.csproj|c:\\users\\dell\\desktop\\enrichment class .net\\thirdproject\\context\\firstcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAF8D1B-5CF8-454E-B273-6ABE6E325C85}|thirdProject.csproj|solutionrelative:context\\firstcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAF8D1B-5CF8-454E-B273-6ABE6E325C85}|thirdProject.csproj|c:\\users\\dell\\desktop\\enrichment class .net\\thirdproject\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAF8D1B-5CF8-454E-B273-6ABE6E325C85}|thirdProject.csproj|solutionrelative:interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAF8D1B-5CF8-454E-B273-6ABE6E325C85}|thirdProject.csproj|c:\\users\\dell\\desktop\\enrichment class .net\\thirdproject\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAF8D1B-5CF8-454E-B273-6ABE6E325C85}|thirdProject.csproj|solutionrelative:models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAF8D1B-5CF8-454E-B273-6ABE6E325C85}|thirdProject.csproj|c:\\users\\dell\\desktop\\enrichment class .net\\thirdproject\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAF8D1B-5CF8-454E-B273-6ABE6E325C85}|thirdProject.csproj|solutionrelative:models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAF8D1B-5CF8-454E-B273-6ABE6E325C85}|thirdProject.csproj|c:\\users\\dell\\desktop\\enrichment class .net\\thirdproject\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAF8D1B-5CF8-454E-B273-6ABE6E325C85}|thirdProject.csproj|solutionrelative:models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAF8D1B-5CF8-454E-B273-6ABE6E325C85}|thirdProject.csproj|c:\\users\\dell\\desktop\\enrichment class .net\\thirdproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAF8D1B-5CF8-454E-B273-6ABE6E325C85}|thirdProject.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\enrichment class .net\\thirdProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\enrichment class .net\\thirdProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAwwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T09:05:43.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddUserRole.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\enrichment class .net\\thirdProject\\Models\\AddUserRole.cs",
+              "RelativeDocumentMoniker": "Models\\AddUserRole.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\enrichment class .net\\thirdProject\\Models\\AddUserRole.cs",
+              "RelativeToolTip": "Models\\AddUserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T09:03:03.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\enrichment class .net\\thirdProject\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\enrichment class .net\\thirdProject\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowCcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T08:59:59.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\enrichment class .net\\thirdProject\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\enrichment class .net\\thirdProject\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "Services\\EmployeeService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAYwBkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T08:52:25.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\enrichment class .net\\thirdProject\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\enrichment class .net\\thirdProject\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-15T08:51:03.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FirstContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\enrichment class .net\\thirdProject\\context\\FirstContext.cs",
+              "RelativeDocumentMoniker": "context\\FirstContext.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\enrichment class .net\\thirdProject\\context\\FirstContext.cs",
+              "RelativeToolTip": "context\\FirstContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowBAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T08:50:12.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\enrichment class .net\\thirdProject\\Controller\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controller\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\enrichment class .net\\thirdProject\\Controller\\EmployeeController.cs",
+              "RelativeToolTip": "Controller\\EmployeeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T08:48:39.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240715091345_login.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\enrichment class .net\\thirdProject\\Migrations\\20240715091345_login.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240715091345_login.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\enrichment class .net\\thirdProject\\Migrations\\20240715091345_login.cs",
+              "RelativeToolTip": "Migrations\\20240715091345_login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T09:13:45.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\enrichment class .net\\thirdProject\\Controller\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controller\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\enrichment class .net\\thirdProject\\Controller\\AuthController.cs",
+              "RelativeToolTip": "Controller\\AuthController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAiwDMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T09:08:03.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\enrichment class .net\\thirdProject\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\enrichment class .net\\thirdProject\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "Interfaces\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T08:46:24.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\enrichment class .net\\thirdProject\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\enrichment class .net\\thirdProject\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "Models\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T08:47:40.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\enrichment class .net\\thirdProject\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\enrichment class .net\\thirdProject\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "Interfaces\\IEmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T08:46:43.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\enrichment class .net\\thirdProject\\Models\\UserRole.cs",
+              "RelativeDocumentMoniker": "Models\\UserRole.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\enrichment class .net\\thirdProject\\Models\\UserRole.cs",
+              "RelativeToolTip": "Models\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T08:44:27.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\enrichment class .net\\thirdProject\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Models\\Role.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\enrichment class .net\\thirdProject\\Models\\Role.cs",
+              "RelativeToolTip": "Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T08:44:02.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\enrichment class .net\\thirdProject\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\enrichment class .net\\thirdProject\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T08:43:08.217Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
